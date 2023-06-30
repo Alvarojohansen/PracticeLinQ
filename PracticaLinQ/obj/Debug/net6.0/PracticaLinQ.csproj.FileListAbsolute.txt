@@ -1,0 +1,15 @@
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\PracticaLinQ.csproj.AssemblyReference.cache
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\PracticaLinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\PracticaLinQ.AssemblyInfoInputs.cache
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\PracticaLinQ.AssemblyInfo.cs
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\PracticaLinQ.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\bin\Debug\net6.0\PracticaLinQ.exe
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\bin\Debug\net6.0\PracticaLinQ.deps.json
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\bin\Debug\net6.0\PracticaLinQ.runtimeconfig.json
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\bin\Debug\net6.0\PracticaLinQ.dll
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\bin\Debug\net6.0\PracticaLinQ.pdb
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\PracticaLinQ.dll
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\refint\PracticaLinQ.dll
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\PracticaLinQ.pdb
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\PracticaLinQ.genruntimeconfig.cache
+C:\Users\johan\source\Programacion3\PracticesLinQ\PracticaLinQ\obj\Debug\net6.0\ref\PracticaLinQ.dll
